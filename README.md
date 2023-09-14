@@ -1,4 +1,5 @@
-# Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank
+# Tugas Praktikum 3
+pada tugas kali ini, kami diminta untuk merealisasikan ERD yang telah kami buat pada tugas ke-2 atau tugas pada pertemuan sebelumnya, jadi sebelum merealisasikan ERD menjadi sebuah database pertama-tama saya akan memuat semua atribut yang ada pada satu entitas kedalam sebuah tabel terlebih dahulu. kemudian setelah tabel dibuat saya akan membuat database baru dengan memanfaatkan MYSQL dengan menggunakan sofware XAMPP.
 
 # tabel 1 Nasababah bank
 ![tabel1](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/2fb10c19-afc2-4419-860f-305166e9941e)
