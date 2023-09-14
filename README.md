@@ -1,6 +1,6 @@
 # Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank
 
-#tabel 1 Nasababah bank
+# tabel 1 Nasababah bank
 ![tabel1](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/2fb10c19-afc2-4419-860f-305166e9941e)
 tabel diatas merupakan sebuah tabel yang terbentuk dari entitas nasabah bamk yang telah dibuat pada ERD di praktikum ke-2. yang mana pada tabel tersebut memiliki beberapa atribut seperti nama nasabah, id_nasabah, nomor_rekening, jenis kelamin nasabah,
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/090c306f-0e81-4cb3-ae22-9454163035f6)
