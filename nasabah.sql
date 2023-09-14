@@ -8,7 +8,7 @@ CREATE TABLE nasabah (
     Nomor_telepon INT(14),
     Alamat VARCHAR(40),
     Jenis_kelamin ENUM('Laki-Laki', 'Perempuan'),
-    FOREIGN KEY (Id_teller) REFERENCES NamaTabelTeller(NamaKolomTeller),
-    FOREIGN KEY (Nomor_rekening) REFERENCES NamaTabelRekening(NamaKolomRekening)
+    FOREIGN KEY (Id_teller) REFERENCES Teller(Id_teller),
+    FOREIGN KEY (Nomor_rekening) REFERENCES Rekening(Nomor_Rekening)
 );
 
