@@ -1,4 +1,4 @@
-CREATE TABLE Nasabah (
+CREATE TABLE nasabah (
     Id_nasabah INT(20) PRIMARY KEY,
     Id_teller INT(20),
     Nomor_rekening INT(20),
