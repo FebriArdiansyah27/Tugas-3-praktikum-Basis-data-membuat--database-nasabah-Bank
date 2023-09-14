@@ -7,7 +7,7 @@
   untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.[Source code Table Nasabah](nasabah.sql)
 
 
-![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/33d137c6-6a23-4816-998a-29e538232ee4)
+![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/9289731b-07d4-4d52-88d1-6fae8df38fdd)
 
   # tabel 2 Transaksi
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/090c306f-0e81-4cb3-ae22-9454163035f6)
