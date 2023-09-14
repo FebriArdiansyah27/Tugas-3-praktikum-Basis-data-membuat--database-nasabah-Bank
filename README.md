@@ -4,7 +4,7 @@
 # tabel 1 Nasabah bank
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/23665318-a5d4-481c-8cf0-5e940ad3af07)
   tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas nasabah bamk yang telah dibuat pada ERD di praktikum ke-2. yang mana pada tabel tersebut memiliki beberapa atribut seperti nama, id_nasabah, nomor_rekening, jenis kelamin, id_teller, tanggal lahir, email, nomor telepon, alamat, jenis kelamin. kemudian selanjutnya kita akan membuat database dengan menggunakan data yang terdapat pada tabel tersebut. <br>
-  untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.[Source code Table Nasabah](nasabah.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
+  <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.[Source code Table Nasabah](nasabah.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/9289731b-07d4-4d52-88d1-6fae8df38fdd)
 
