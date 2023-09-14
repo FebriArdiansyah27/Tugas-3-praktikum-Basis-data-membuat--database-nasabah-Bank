@@ -55,29 +55,29 @@ berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
 # Direktur
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/a8ad99b9-0fcb-4324-bf05-ef8044f4b098)
 
-tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas teller  yang telah dibuat pada ERD di praktikum ke-2. yang mana pada tabel tersebut memiliki beberapa atribut seperti id_teller sebagai primary key, id_direktur sebagai Foreign key dan yang 1 lagi adalah nama teller. kemudian selanjutnya kita akan membuat database dengan menggunakan data yang terdapat pada tabel tersebut. <br>
+tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas direktur  yang telah dibuat pada ERD di praktikum ke-2. Pada tabel tersebut memiliki beberapa atribut seperti id_direktur sebagai primary key, nama direktur, jenis kelamin, dan nomor telepon direktur. kemudian selanjutnya kita akan membuat database dengan menggunakan data yang terdapat pada tabel tersebut. <br>
 
-  <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.Source code Table [Teller](teller.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
+  <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.Source code Table [Direktur](direktur.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
   
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/526d7a35-0964-4bff-80ce-957f70225187)
 
-gambar diatas memperlihatkan struktur dari tabel teller yang telah kita buat sebelumnya. disana bisa terlihat bahwa id_teller merupakan primary key dan id_direktur adalah foreign key, dan sisahnya adalah basic atribut.key tersebut dilambangkan oleh kunci emas sebagai primary key, dan kunci silver sebagai fereign key.<br>
+gambar diatas memperlihatkan struktur dari tabel direktur yang telah kita buat sebelumnya. disana bisa terlihat bahwa id_direktur merupakan primary key, dan sisahnya adalah basic atribut.key tersebut dilambangkan oleh kunci emas sebagai primary key, dan kunci silver sebagai fereign key.<br>
 
 
 berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
 
 # table 6
-# rekening
+# Rekening
 
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/dce083f1-9edb-47ac-a4fe-bcecc558ca02)
 
-tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas teller  yang telah dibuat pada ERD di praktikum ke-2. yang mana pada tabel tersebut memiliki beberapa atribut seperti id_teller sebagai primary key, id_direktur sebagai Foreign key dan yang 1 lagi adalah nama teller. kemudian selanjutnya kita akan membuat database dengan menggunakan data yang terdapat pada tabel tersebut. <br>
+tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas Rekening  yang telah dibuat pada ERD di praktikum ke-2.Pada tabel tersebut memiliki beberapa atribut seperti Nomor rekening sebagai primary key, dan sisahnya adalah basic atribut atau bukan sebuah key. kemudian selanjutnya kita akan membuat database dengan menggunakan data yang terdapat pada tabel tersebut. <br>
 
-  <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.Source code Table [Teller](teller.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
+  <br>untuk membuat tabel rekening pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.Source code Table [Teller](rekening.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
   
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/9c09f182-02d3-4560-b5fb-4ee84fd0ca0e)
 
-gambar diatas memperlihatkan struktur dari tabel teller yang telah kita buat sebelumnya. disana bisa terlihat bahwa id_teller merupakan primary key dan id_direktur adalah foreign key, dan sisahnya adalah basic atribut.key tersebut dilambangkan oleh kunci emas sebagai primary key, dan kunci silver sebagai fereign key.<br>
+gambar diatas memperlihatkan struktur dari tabel rekening yang telah kita buat sebelumnya. disana bisa terlihat bahwa nomor_rekening merupakan primary key  dan sisahnya adalah basic atribut .key tersebut dilambangkan oleh kunci emas sebagai primary key, dan kunci silver sebagai fereign key.<br>
 
 
 berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
