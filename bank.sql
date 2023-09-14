@@ -6,5 +6,5 @@ CREATE TABLE Bank (
     Alamat_kantor_pusat VARCHAR(30),
     Nomor_direktur INT(30),
     No_telepon_kantor_pusat INT(30),
-    FOREIGN KEY (Nomor_rekening) REFERENCES NRekenin(Nomor_Rekening)
+    FOREIGN KEY (Nomor_rekening) REFERENCES NRekenin(Nomor_rekening)
 );
