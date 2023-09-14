@@ -1,7 +1,8 @@
 # Tugas Praktikum 3
   pada tugas kali ini, kami diminta untuk merealisasikan ERD yang telah kami buat pada tugas ke-2 atau tugas pada pertemuan sebelumnya, jadi sebelum merealisasikan ERD menjadi sebuah database pertama-tama saya akan memuat semua atribut yang ada pada satu entitas kedalam sebuah tabel terlebih dahulu. kemudian setelah tabel dibuat saya akan membuat database baru dengan memanfaatkan MYSQL dengan menggunakan sofware XAMPP.
 
-# tabel 1 Nasabah bank
+# tabel 1 
+# Nasabah bank
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/23665318-a5d4-481c-8cf0-5e940ad3af07)
   tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas nasabah bank yang telah dibuat pada ERD di praktikum ke-2. yang mana pada tabel tersebut memiliki beberapa atribut seperti nama, id_nasabah, nomor_rekening, jenis kelamin, id_teller, tanggal lahir, email, nomor telepon, alamat, jenis kelamin. kemudian selanjutnya kita akan membuat database dengan menggunakan data yang terdapat pada tabel tersebut. <br>
   <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.[Source code Table Nasabah](nasabah.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
@@ -13,7 +14,8 @@ berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
 
 
 
-  # tabel 2 Transaksi
+  # tabel 2 
+  # Transaksi
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/8e060dba-cace-4470-bfce-daf2e843b6d8)
 tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas Transaksi yang telah dibuat pada ERD di praktikum pertemuan 2. Pada tabel tersebut terdapat 7 nama field yang nantinya akan dijadikan kolom pada tabel Transaksi di database. Isi dari tabel yang kita buat nantinya adalah kolom Nomor transaksi sebagai primary key, dan nomor rekening sebagai foreign key, dan sisahnya adalah basic atribut. <br>
   <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.[Source code Table Transaksi](transaksi.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
@@ -23,7 +25,7 @@ gambar diatas memperlihatkan struktur dari tabel nasabah yang telah kita buat se
 berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
 
 
-
+# tabel 3
 # Bank
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/bdcfb0a9-143b-4321-9571-03dd8c0eacaa)
 tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas nasabah bamk yang telah dibuat pada ERD di praktikum ke-2. yang mana pada tabel tersebut memiliki beberapa atribut seperti nama, id_nasabah, nomor_rekening, jenis kelamin, id_teller, tanggal lahir, email, nomor telepon, alamat, jenis kelamin. kemudian selanjutnya kita akan membuat database dengan menggunakan data yang terdapat pada tabel tersebut. <br>
