@@ -18,9 +18,9 @@ berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
   # Transaksi
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/8e060dba-cace-4470-bfce-daf2e843b6d8)
 tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas Transaksi yang telah dibuat pada ERD di praktikum pertemuan 2. Pada tabel tersebut terdapat 7 nama field yang nantinya akan dijadikan kolom pada tabel Transaksi di database. Isi dari tabel yang kita buat nantinya adalah kolom Nomor transaksi sebagai primary key, dan nomor rekening sebagai foreign key, dan sisahnya adalah basic atribut. <br>
-  <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.[Source code Table Transaksi](transaksi.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
+  <br>untuk membuat table Transaksi pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.[Source code Table Transaksi](transaksi.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/786b239b-95f9-44a8-8f89-204103c9344e)
-gambar diatas memperlihatkan struktur dari tabel nasabah yang telah kita buat sebelumnya. disana bisa terlihat bahwa id_nasabah merupakan primary key,nomor_rekening dan id_teller adalah foreign key, dan sisahnya adalah basic atribut.<br>
+gambar diatas memperlihatkan struktur dari tabel nasabah yang telah kita buat sebelumnya. disana bisa terlihat bahwa Nomor_transaksi merupakan primary key,nomor_rekening  adalah foreign key, dan sisahnya adalah basic atribut.key tersebut dilambangkan oleh kunci emas sebgai primary key, dan kunci silver sebagai fereign key.<br>
 
 berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
 
@@ -28,10 +28,10 @@ berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
 # tabel 3
 # Bank
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/bdcfb0a9-143b-4321-9571-03dd8c0eacaa)
-tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas nasabah bamk yang telah dibuat pada ERD di praktikum ke-2. yang mana pada tabel tersebut memiliki beberapa atribut seperti nama, id_nasabah, nomor_rekening, jenis kelamin, id_teller, tanggal lahir, email, nomor telepon, alamat, jenis kelamin. kemudian selanjutnya kita akan membuat database dengan menggunakan data yang terdapat pada tabel tersebut. <br>
-  <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.[Source code Table Nasabah](nasabah.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
+tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas Bank yang telah dibuat pada ERD di praktikum pertemuan 2. Pada tabel tersebut terdapat  6 nama field yang nantinya akan dijadikan kolom pada tabel Bank di database. Isi dari tabel yang kita buat nantinya adalah Id Bank sebagai primary key, dan nomor rekening sebagai foreign key, dan sisahnya adalah basic atribut. <br>
+  <br>untuk membuat table Bank pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.Source code Table [Bank](bank.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/89cd89af-5175-46eb-a3cf-27f66855331d)
-gambar diatas memperlihatkan struktur dari tabel nasabah yang telah kita buat sebelumnya. disana bisa terlihat bahwa id_nasabah merupakan primary key,nomor_rekening dan id_teller adalah foreign key, dan sisahnya adalah basic atribut.<br>
+gambar diatas memperlihatkan struktur dari tabel bank yang telah kita buat sebelumnya menggunakan database MYSQL. disana bisa terlihat bahwa id_bank merupakan primary key,dan nomor_rekening adalah foreign key, dan sisahnya adalah basic atribut.<br>
 
 berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
 
