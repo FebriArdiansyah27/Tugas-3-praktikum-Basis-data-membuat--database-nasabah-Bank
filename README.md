@@ -71,7 +71,3 @@ berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
 
 
 
-![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/9c09f182-02d3-4560-b5fb-4ee84fd0ca0e)
-
-
-
