@@ -22,8 +22,8 @@ gambar diatas memperlihatkan struktur dari tabel nasabah yang telah kita buat se
 tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas Transaksi yang telah dibuat pada ERD di praktikum pertemuan 2. Pada tabel tersebut terdapat 7 nama field yang nantinya akan dijadikan kolom pada tabel Transaksi di database. Isi dari tabel yang kita buat nantinya adalah kolom Nomor transaksi sebagai primary key, dan nomor rekening sebagai foreign key, dan sisahnya adalah basic atribut. <br>
   <br>untuk membuat table Transaksi pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.Source code Table Transaksi dan penjelasanya dapat dilihat pada tautan [Transaksi](transaksi.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
   
-![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/786b239b-95f9-44a8-8f89-204103c9344e)
-gambar diatas memperlihatkan struktur dari tabel nasabah yang telah kita buat sebelumnya. disana bisa terlihat bahwa Nomor_transaksi merupakan primary key,nomor_rekening  adalah foreign key, dan sisahnya adalah basic atribut.key tersebut dilambangkan oleh kunci emas sebgai primary key, dan kunci silver sebagai fereign key.<br>
+![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/4e7f7f3b-08a8-4e65-b7e0-2009b9562d8c)
+gambar diatas memperlihatkan struktur dari tabel transaksi yang telah kita buat sebelumnya. disana bisa terlihat bahwa Nomor_transaksi merupakan primary key,nomor_rekening  adalah foreign key, dan sisahnya adalah basic atribut.key tersebut dilambangkan oleh kunci emas sebgai primary key, dan kunci silver sebagai fereign key.<br>
 
 
 
