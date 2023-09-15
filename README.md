@@ -8,9 +8,7 @@
   <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.Source code Table Nasabah dan penjelasanya dapat dilihat pada tautan [nasabah](nasabah.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/954f05b9-5bf0-4111-924d-00670f80e608)
-gambar diatas memperlihatkan struktur dari tabel nasabah yang telah kita buat sebelumnya. disana bisa terlihat bahwa id_nasabah merupakan primary key,nomor_rekening dan id_teller adalah foreign key, dan sisahnya adalah basic atribut.<br>
-
-
+gambar diatas memperlihatkan struktur dari tabel nasabah yang telah kita buat sebelumnya. disana bisa terlihat bahwa id_nasabah merupakan primary key,nomor_rekening dan id_teller adalah foreign key, dan sisahnya adalah basic atribut. pada gambar tersebut untuk melihat yang mana primary key ditandai dengan adanya kunci emas di sebelah nama kolom, sedangkan untuk melihat yang mana Foreign key ditandai dengan adanya kunci silver di sebelah nama kolom. <br>
 
 
 
