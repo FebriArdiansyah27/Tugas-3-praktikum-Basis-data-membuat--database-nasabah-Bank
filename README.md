@@ -83,7 +83,7 @@ gambar diatas memperlihatkan struktur dari tabel rekening yang telah kita buat s
 # Tabel-tabel yang ada didalam database
 berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/498105d1-7205-43af-9e13-5c422af953f0)
-pada gambar diatas bisa kita lihat bahwa tabel-tabel yang telah kita buat sebelumnya telah muncul atau masuk kedalam database nasabah bank.
+pada gambar diatas bisa kita lihat bahwa tabel-tabel yang telah kita buat sebelumnya telah muncul atau masuk kedalam database nasabah bank. untuk fuil kode database tersebut bisa dilihat pada tautan [database_nasabah_bank](database_nasabah_bank.sql)
 
 
 
