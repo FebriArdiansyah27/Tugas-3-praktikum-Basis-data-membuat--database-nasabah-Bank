@@ -102,7 +102,7 @@ CREATE TABLE `teller` (
 CREATE TABLE `transaksi` (
   `Nomor_transaksi` int(20) NOT NULL,
   `Keterangan_transaksi` varchar(20) DEFAULT NULL,
-  `Jenis_transaksi` varchar(40) DEFAULT NULL,
+  `Jenis_transaksi`  enum('tarik tunai','setor tunai', 'tranfer tunai'),  DEFAULT NULL,
   `Tanggal_transaksi` date DEFAULT NULL,
   `Jumlah_transaksi` int(125) DEFAULT NULL,
   `Saldo` int(125) DEFAULT NULL,
