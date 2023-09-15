@@ -80,6 +80,7 @@ tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas Reke
 gambar diatas memperlihatkan struktur dari tabel rekening yang telah kita buat sebelumnya. disana bisa terlihat bahwa nomor_rekening merupakan primary key  dan sisahnya adalah basic atribut .key tersebut dilambangkan oleh kunci emas sebagai primary key, dan kunci silver sebagai fereign key.<br>
 
 
+# Tabel-tabel yang ada didalam database
 berikut adalah tampilan tabel-tabel yang telah ditambahkan pada database:
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/498105d1-7205-43af-9e13-5c422af953f0)
 pada gambar diatas bisa kita lihat bahwa tabel-tabel yang telah kita buat sebelumnya telah muncul atau masuk kedalam database nasabah bank.
