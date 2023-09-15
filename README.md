@@ -21,7 +21,7 @@ tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas Tran
   <br>untuk membuat table Transaksi pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.Source code Table Transaksi dan penjelasanya dapat dilihat pada tautan [Transaksi](transaksi.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
   
 ![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/4e7f7f3b-08a8-4e65-b7e0-2009b9562d8c)
-gambar diatas memperlihatkan struktur dari tabel transaksi yang telah kita buat sebelumnya. disana bisa terlihat bahwa Nomor_transaksi merupakan primary key,nomor_rekening  adalah foreign key, dan sisahnya adalah kolom biasa.key tersebut dilambangkan oleh kunci emas sebgai primary key, dan kunci silver sebagai fereign key.<br>
+gambar diatas memperlihatkan struktur dari tabel transaksi yang telah kita buat sebelumnya. disana bisa terlihat bahwa Nomor_transaksi merupakan primary key,nomor_rekening  adalah foreign key, dan sisahnya adalah kolom biasa. key tersebut dilambangkan oleh kunci emas sebgai primary key, dan kunci silver sebagai fereign key.<br>
 
 
 
