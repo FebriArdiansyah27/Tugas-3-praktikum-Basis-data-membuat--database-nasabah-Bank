@@ -44,7 +44,8 @@ tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas tell
 
   <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.Source code Table teller dan penjelasanya dapat dilihat pada link [Teller](teller.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
   
-![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/7acb2651-fbf8-4e8d-8a0a-0ce47360f113)
+![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/56493641-1a14-4d82-b218-c8c574d01c19)
+
 
 gambar diatas memperlihatkan struktur dari tabel teller yang telah kita buat sebelumnya. disana bisa terlihat bahwa id_teller merupakan primary key dan id_direktur adalah foreign key, dan sisahnya adalah kolom biasa. key tersebut dilambangkan oleh kunci emas sebagai primary key, dan kunci silver sebagai fereign key.<br>
 
@@ -59,7 +60,7 @@ tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas dire
 
   <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.Source code Table direktur dan penjelasanya dapat dilihat pada tautan [Direktur](direktur.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
   
-![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/526d7a35-0964-4bff-80ce-957f70225187)
+![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/cdad81c4-faa5-421b-b941-cdacd152cd74)
 
 gambar diatas memperlihatkan struktur dari tabel direktur yang telah kita buat sebelumnya. disana bisa terlihat bahwa id_direktur merupakan primary key, dan sisahnya adalah kolom biasa.key tersebut dilambangkan oleh kunci emas sebagai primary key, dan kunci silver sebagai fereign key.<br>
 
