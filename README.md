@@ -39,7 +39,7 @@ gambar diatas memperlihatkan struktur dari tabel bank yang telah kita buat sebel
 
 # tabel 4 
 # teller
-![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/c7f3f0b5-3692-420b-b2ff-c1d38bda969d)
+![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/868febea-0ddb-4744-b19a-e536856e77d9)
 tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas teller  yang telah dibuat pada ERD di praktikum ke-2. yang mana pada tabel tersebut memiliki beberapa atribut seperti id_teller sebagai primary key, id_direktur sebagai Foreign key dan yang 1 lagi adalah nama teller. kemudian selanjutnya kita akan membuat database dengan menggunakan data yang terdapat pada tabel tersebut. <br>
 
   <br>untuk membuat table nasabah pada database yang kita buat kita dapat menambahkan kode berikut pada database yang telah kita buat.Source code Table teller dan penjelasanya dapat dilihat pada link [Teller](teller.sql) setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
@@ -52,7 +52,8 @@ gambar diatas memperlihatkan struktur dari tabel teller yang telah kita buat seb
 
 # tabel 5 
 # Direktur
-![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/a8ad99b9-0fcb-4324-bf05-ef8044f4b098)
+![image](https://github.com/FebriArdiansyah27/Tugas-3-praktikum-Basis-data-membuat--database-nasabah-Bank/assets/131425009/7d12c90d-fcb8-42d0-bb68-3998fa022d2e)
+
 
 tabel pada gambar diatas merupakan sebuah tabel yang terbentuk dari entitas direktur  yang telah dibuat pada ERD di praktikum ke-2. Pada tabel tersebut memiliki beberapa atribut seperti id_direktur sebagai primary key, nama direktur, jenis kelamin, dan nomor telepon direktur. kemudian selanjutnya kita akan membuat database dengan menggunakan data yang terdapat pada tabel tersebut. <br>
 
